@@ -1,0 +1,9 @@
+{
+    "jwtPrivateKey": "jwtPrivateKey",
+    "db": "db",
+    "tokenLifetime": "24h",
+    "reservationTime": "2",
+    "email": "mail",
+    "password": "pass",
+    "url": "url"
+}
